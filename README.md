@@ -1,5 +1,6 @@
 # samko.dev
 My Personal Website :D
+https://www.samko.dev/
 
 **WORK IN PROGRESS**
 
