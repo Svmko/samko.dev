@@ -1,6 +1,6 @@
 # samko.dev
 My Personal Website :D
-https://www.samko.dev/
+https://www.samko.dev/ (note that i have a google sites template published for now)
 
 **WORK IN PROGRESS**
 
